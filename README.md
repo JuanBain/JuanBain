@@ -6,8 +6,9 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/iBain7?label=iBain7&style=social)](https://www.twitter.com/iBain7)
-**[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub followers](https://img.shields.io/github/followers/JuanBain?label=JuanBain&style=social)](https://github.com/JuanBain)
+<a href="https://www.linkedin.com/in/juanbain/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"></a>
+
 
 
 ###  A little more about me...  
@@ -20,6 +21,7 @@ const thai = {
   challenge: "I'm doing my own clash royale clone"
 }
 ```
+  [![JuanBain github stats](https://github-readme-stats.vercel.app/api?username=JuanBain)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 
